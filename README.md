@@ -4,7 +4,7 @@ Junior full-stack and cloud-operations practitioner. I build, deploy and support
 
 Open to cloud/product operations, junior full-stack and DevOps-adjacent roles (remote or hybrid).
 
-**Portfolio & CV:** [harizhelmi.vercel.app](https://harizhelmi.vercel.app)
+**Portfolio & CV:** [portfolio.harizhelmi.my](https://portfolio.harizhelmi.my)
 
 ## Featured work
 
